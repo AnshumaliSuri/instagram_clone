@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "373934317637",
+    "project_id": "instagram-bd926",
+    "storage_bucket": "instagram-bd926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373934317637:android:7d028af1005cc5ecbc032c",
+        "android_client_info": {
+          "package_name": "com.example.instagram_anshumali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373934317637-g6stpmeldforli1ao0cumljbm2bpjvbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBmIqY55Hq5X07TSFFp0c98088odO6u6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373934317637-g6stpmeldforli1ao0cumljbm2bpjvbp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373934317637-449anki2jkp2a6eqmpckmtl8o8hs4ce7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramAnshumali"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
